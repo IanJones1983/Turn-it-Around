@@ -12,7 +12,7 @@ Migration of turnitaround.org to WordPress from Drupal. Project goals - provide 
 ### Contributing
 
 ## Deployment
-### Add Theme Footer Credits
+#### Add Theme Footer Credits
 - [ ] "Proudly powered by WordPress" link to WordPress.com (no credit on memorial-type sites)
 - [ ] If hosted on Pressable, add "Hosted by Pressable" link to: https://pressable.com/?utm_source=Automattic&utm_medium=rpc&utm_campaign=Concierge%20Referral&utm_term=concierge 
 
