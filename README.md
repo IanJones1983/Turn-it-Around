@@ -3,9 +3,11 @@ Migration of turnitaround.org to WordPress from Drupal. Project goals - provide 
 
 ## Development
 
-### Getting Started 
+### Getting Started
+- [ ] Review Project Brief
 
 ### Local Development
+- [ ] Setup a local development environment.
 
 ### Testing
 
